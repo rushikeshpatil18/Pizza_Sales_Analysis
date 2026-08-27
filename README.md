@@ -38,9 +38,3 @@ The analysis aims to answer questions such as:
 - **October** recorded the lowest monthly revenue at approximately **$64.0K**.
 - Orders were highest during the **lunch and evening hours**, with peak order volumes around **12 PM–1 PM and 7 PM**.
 
-## 📁 Project Structure
-
-- `SQL/` → SQL queries
-- `PowerBI/` → Power BI dashboard
-- `Dashboard/` → Dashboard screenshot
-- `Dataset/` → Dataset
