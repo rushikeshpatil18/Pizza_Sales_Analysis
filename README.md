@@ -30,9 +30,13 @@ The analysis aims to answer questions such as:
 
 ## 🔍 Key Insights
 
-- ...
-- ...
-- ...
+- Generated total revenue of **$817.86K** from approximately **21K orders** and **50K pizzas sold**.
+- The **Thai Chicken Pizza** was the most ordered pizza, with approximately **2.4K orders**.
+- The **Thai Chicken Pizza** also generated the highest revenue, approximately **$43K**.
+- **Classic pizzas** contributed the highest revenue, approximately **$220.05K (26.91%)**.
+- **July** recorded the highest monthly revenue at approximately **$72.6K**.
+- **October** recorded the lowest monthly revenue at approximately **$64.0K**.
+- Orders were highest during the **lunch and evening hours**, with peak order volumes around **12 PM–1 PM and 7 PM**.
 
 ## 📁 Project Structure
 
